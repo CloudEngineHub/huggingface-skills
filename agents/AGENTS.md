@@ -14,6 +14,7 @@ You have additional SKILLs documented in directories containing a "SKILL.md" fil
 | hugging-face-paper-publisher | Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles. |
 | hugging-face-tool-builder | Build tool/scripts or achieve a task where using data from the Hugging Face API would help. Creates reusable scripts to fetch, enrich or process data. |
 | hugging-face-trackio | Track and visualize ML training experiments with Trackio. Use when logging metrics during training (Python API) or retrieving/analyzing logged metrics (CLI). |
+| gradio | Build Gradio web UIs and demos in Python. Use when creating or editing Gradio apps, components, event listeners, layouts, or chatbots. |
 
 ## Usage
 
@@ -34,3 +35,4 @@ The skills are located in:
 - `skills/hugging-face-paper-publisher/SKILL.md`
 - `skills/hugging-face-tool-builder/SKILL.md`
 - `skills/hugging-face-trackio/SKILL.md`
+- `skills/huggingface-gradio/SKILL.md`
